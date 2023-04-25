@@ -1,0 +1,6 @@
+.idea
+node_modules
+config/default.json
+.vscode
+voices/*.mp3
+package-lock.json
